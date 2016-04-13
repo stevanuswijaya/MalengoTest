@@ -1,0 +1,4 @@
+c:\MalengoTestApplication\MalengoTestApplication.Models\bin\Debug\MalengoTestApplication.Models.dll
+c:\MalengoTestApplication\MalengoTestApplication.Models\bin\Debug\MalengoTestApplication.Models.pdb
+c:\MalengoTestApplication\MalengoTestApplication.Models\obj\Debug\MalengoTestApplication.Models.dll
+c:\MalengoTestApplication\MalengoTestApplication.Models\obj\Debug\MalengoTestApplication.Models.pdb

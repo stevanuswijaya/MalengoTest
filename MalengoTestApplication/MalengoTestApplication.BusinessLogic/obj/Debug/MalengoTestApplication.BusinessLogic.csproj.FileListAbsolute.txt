@@ -1,0 +1,7 @@
+c:\MalengoTestApplication\MalengoTestApplication.BusinessLogic\bin\Debug\MalengoTestApplication.BusinessLogic.dll
+c:\MalengoTestApplication\MalengoTestApplication.BusinessLogic\bin\Debug\MalengoTestApplication.BusinessLogic.pdb
+c:\MalengoTestApplication\MalengoTestApplication.BusinessLogic\bin\Debug\MalengoTestApplication.Models.dll
+c:\MalengoTestApplication\MalengoTestApplication.BusinessLogic\bin\Debug\MalengoTestApplication.Models.pdb
+c:\MalengoTestApplication\MalengoTestApplication.BusinessLogic\obj\Debug\MalengoTestApplication.BusinessLogic.csprojResolveAssemblyReference.cache
+c:\MalengoTestApplication\MalengoTestApplication.BusinessLogic\obj\Debug\MalengoTestApplication.BusinessLogic.dll
+c:\MalengoTestApplication\MalengoTestApplication.BusinessLogic\obj\Debug\MalengoTestApplication.BusinessLogic.pdb

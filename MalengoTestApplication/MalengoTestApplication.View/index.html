@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body ng-app="palindrome-app">
+    <div ng-controller="PalindromeController">
+        <div>
+            <input type="button" value="Start Populate!" ng-click="populatePalindrome();" />
+            <input type="button" value="Stop" ng-click="stopPalindrome();" />
+        </div>
+        <div>
+            <ul>
+                <li ng-repeat="palindrome in palindromeList">
+                    <span ng-bind="palindrome.PalindromeString"></span>
+                </li>
+            </ul>
+        </div>
+        <span ng-bind="message"></span><br/>
+        Generate status: <span ng-bind="isGenerated"></span><br/>
+        Item count: <span ng-bind="listCount"></span>
+    </div>
+
+    <script src="scripts/jquery-1.6.4.js"></script>
+    <script src="scripts/jquery.signalR-2.2.0.js"></script>
+    <!--<script src="signalr/hubs"></script>-->
+    <script src="http://localhost:45731/signalr/hubs"></script>
+    <script src="scripts/angular.js"></script>
+    <script src="scripts/palindromeController.js"></script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalengoTestApplication.Tests", "MalengoTestApplication.Tests\MalengoTestApplication.Tests.csproj", "{DFB66084-BB49-4A9E-889B-2FDED136EAD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalengoTestApplication.BusinessLogic", "MalengoTestApplication.BusinessLogic\MalengoTestApplication.BusinessLogic.csproj", "{78B86BA9-6997-4B76-A967-2D4FEB375EA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalengoTestApplication.Models", "MalengoTestApplication.Models\MalengoTestApplication.Models.csproj", "{D90BD4CF-F21A-426B-BB61-B94A31840F96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalengoTestApplication", "MalengoTestApplication\MalengoTestApplication.csproj", "{CE8EE216-6BA5-4FAD-AF98-AD40D004F2F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalengoTestApplication.View", "MalengoTestApplication.View\MalengoTestApplication.View.csproj", "{AC2DD74C-CAD7-4496-AAB5-D3ADB7648281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB66084-BB49-4A9E-889B-2FDED136EAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB66084-BB49-4A9E-889B-2FDED136EAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB66084-BB49-4A9E-889B-2FDED136EAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB66084-BB49-4A9E-889B-2FDED136EAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B86BA9-6997-4B76-A967-2D4FEB375EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B86BA9-6997-4B76-A967-2D4FEB375EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B86BA9-6997-4B76-A967-2D4FEB375EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B86BA9-6997-4B76-A967-2D4FEB375EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90BD4CF-F21A-426B-BB61-B94A31840F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90BD4CF-F21A-426B-BB61-B94A31840F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90BD4CF-F21A-426B-BB61-B94A31840F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90BD4CF-F21A-426B-BB61-B94A31840F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE8EE216-6BA5-4FAD-AF98-AD40D004F2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8EE216-6BA5-4FAD-AF98-AD40D004F2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8EE216-6BA5-4FAD-AF98-AD40D004F2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8EE216-6BA5-4FAD-AF98-AD40D004F2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2DD74C-CAD7-4496-AAB5-D3ADB7648281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2DD74C-CAD7-4496-AAB5-D3ADB7648281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2DD74C-CAD7-4496-AAB5-D3ADB7648281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2DD74C-CAD7-4496-AAB5-D3ADB7648281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
