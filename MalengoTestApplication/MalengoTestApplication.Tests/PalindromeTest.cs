@@ -10,12 +10,9 @@ namespace MalengoUnitTest
         [TestMethod]
         public void TestPalindromeString()
         {
-            // Prepare data
-            PalindromeFactory.Instance.MinLength = 7;
-            PalindromeFactory.Instance.MaxLength = 8;
-            PalindromeFactory.Instance.MaxCapacity = 10;
+            var factory = new PalindromeFactory();
             // Populate new palindrome string
-            var result = PalindromeFactory.Instance.PopulatePalindromeString();
+            var result = factory.PopulatePalindromeString(7, 8, 10);
 
             //Check if the result is not null
             Assert.IsNotNull(result);

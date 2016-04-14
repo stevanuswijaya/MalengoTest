@@ -99,3 +99,13 @@ c:\MalengoTestApplication\MalengoTestApplication\obj\Debug\MalengoTestApplicatio
 C:\MalengoTestApplication\MalengoTestApplication\bin\Microsoft.Owin.Cors.dll
 C:\MalengoTestApplication\MalengoTestApplication\bin\System.Web.Cors.dll
 C:\MalengoTestApplication\MalengoTestApplication\bin\Microsoft.Owin.Cors.xml
+C:\MalengoTestApplication\MalengoTestApplication\bin\Microsoft.Practices.ServiceLocation.dll
+C:\MalengoTestApplication\MalengoTestApplication\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\MalengoTestApplication\MalengoTestApplication\bin\Microsoft.Practices.Unity.dll
+C:\MalengoTestApplication\MalengoTestApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\MalengoTestApplication\MalengoTestApplication\bin\Unity.WebApi.dll
+C:\MalengoTestApplication\MalengoTestApplication\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\MalengoTestApplication\MalengoTestApplication\bin\Microsoft.Practices.ServiceLocation.xml
+C:\MalengoTestApplication\MalengoTestApplication\bin\Microsoft.Practices.Unity.xml
+C:\MalengoTestApplication\MalengoTestApplication\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\MalengoTestApplication\MalengoTestApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml

@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CommonFunctions\HelperClass.cs" />
+    <Compile Include="Interface\IPalindromeFactory.cs" />
     <Compile Include="PalindromeFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

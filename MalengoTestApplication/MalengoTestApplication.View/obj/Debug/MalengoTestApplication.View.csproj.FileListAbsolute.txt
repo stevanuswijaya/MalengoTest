@@ -51,3 +51,16 @@ C:\MalengoTestApplication\MalengoTestApplication.View\bin\Microsoft.Owin.Cors.dl
 C:\MalengoTestApplication\MalengoTestApplication.View\bin\System.Web.Cors.dll
 C:\MalengoTestApplication\MalengoTestApplication.View\bin\Microsoft.Owin.Cors.xml
 C:\MalengoTestApplication\MalengoTestApplication.View\obj\Debug\MalengoTestApplication.View.csprojResolveAssemblyReference.cache
+C:\MalengoTestApplication\MalengoTestApplication.View\bin\Microsoft.Practices.ServiceLocation.dll
+C:\MalengoTestApplication\MalengoTestApplication.View\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\MalengoTestApplication\MalengoTestApplication.View\bin\Microsoft.Practices.Unity.dll
+C:\MalengoTestApplication\MalengoTestApplication.View\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\MalengoTestApplication\MalengoTestApplication.View\bin\System.Net.Http.Formatting.dll
+C:\MalengoTestApplication\MalengoTestApplication.View\bin\System.Web.Http.dll
+C:\MalengoTestApplication\MalengoTestApplication.View\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\MalengoTestApplication\MalengoTestApplication.View\bin\Microsoft.Practices.ServiceLocation.xml
+C:\MalengoTestApplication\MalengoTestApplication.View\bin\Microsoft.Practices.Unity.xml
+C:\MalengoTestApplication\MalengoTestApplication.View\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\MalengoTestApplication\MalengoTestApplication.View\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\MalengoTestApplication\MalengoTestApplication.View\bin\System.Net.Http.Formatting.xml
+C:\MalengoTestApplication\MalengoTestApplication.View\bin\System.Web.Http.xml
